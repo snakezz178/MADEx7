@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TelePhony</string>
+    <string name="get_telephony_info">Get Telephony Info</string>
+    <string name="call_state">Call State:</string>
+    <string name="sim_info">SIM Info:</string>
+    <string name="device_info">Device Info:</string>
+    <string name="network_type">Network Type:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="incoming_call">Incoming Call:</string>
+    <string name="telephony_services">Telephony Services</string>
+</resources>
